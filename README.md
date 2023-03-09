@@ -1,2 +1,3 @@
-# JavaScript-peli
-Maailman paras, mahtavin ja tuottavin peli ikinä!!!!!!!!!!!
+# JavaScript Doodle Jump Game
+
+School project.
