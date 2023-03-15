@@ -1,0 +1,37 @@
+
+button {
+    white-space: pre-line;
+}
+.main {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.main-menu-div {
+    background-color: lightskyblue;
+    padding: 10%;
+    float: left;
+    width: 40%;
+    align-items: center;
+}
+.top3-div {
+    background-color: lightgreen;
+    padding: 10%;
+    float: right;
+    width: 20%;
+    align-items: center;
+}
+h1 {
+    font-family: 'seriousr4b', sans-serif;
+}
+.btn-group button {
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    display: block; /* Make the buttons appear below each other */
+    margin-top: 8%;
+    font-family: 'seriousr2b', sans-serif;
+}
+li {
+    margin-top: 15%;
+    font-family: 'seriousr2b', sans-serif;
+}
